@@ -9,3 +9,5 @@ Branco: #f3f4f6
 Preto: #0000
 
   text-transform: uppercase;
+  
+  https://www.alura.com.br/artigos/escrever-bom-readme
