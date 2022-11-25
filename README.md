@@ -22,3 +22,5 @@ Você pode acessar o projeto atráves do códigp fonte: https://github.com/d-ara
 
 ## Demonstração do site
 ![Home do site](https://github.com/d-araujo/Natal/blob/main/img/natal.png)
+
+![Página almoço](https://github.com/d-araujo/Natal/blob/main/img/natal_2.png)
